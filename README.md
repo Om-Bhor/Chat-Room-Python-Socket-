@@ -13,4 +13,5 @@ This project is a real-time chat application built using Python’s socket and t
 ⚡ Threaded Handling: Uses multi-threading to manage multiple connections concurrently.<br>
 How to run <br>
 1. run the coomand in the terminal : python server.py
-2. New terminal : python client.py
+2. New terminal : python client.py<br>
+In progress Chat Room GUI...
